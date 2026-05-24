@@ -14,3 +14,5 @@ Une métaphore du parcours artistique : chaque œuvre cache une montagne invis
 Contrôles : flèchContrôles : flèches gauche/droite pour se déplacer, espace pour sauter
 
 Interface : un panneau latéral permet de choisir des formes et de les placer pour créer des plateformes et progresser.
+
+Vidéo du jeu : https://youtu.be/1guoXB4wYfE?si=nEKYzsZSL7dTzJlF
