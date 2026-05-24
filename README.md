@@ -7,11 +7,7 @@ Painted Ascent est un jeu poétique où l’on incarne un artiste gravissant une
 Message :  
 Une métaphore du parcours artistique : chaque œuvre cache une montagne invisible d'efforts gravie par son créateur.
 
-“Every artwork hides an invisible mountain climbed by its creator.”
-“Chaque œuvre cache une montagne invisible gravie par son créateur.”
-“Je peins mon assomption.”
-
-Contrôles : flèchContrôles : flèches gauche/droite pour se déplacer, espace pour sauter
+Contrôles : flèches gauche/droite pour se déplacer, espace pour sauter
 
 Interface : un panneau latéral permet de choisir des formes et de les placer pour créer des plateformes et progresser.
 
